@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "description": "sors un nombre au hasard",
+    "image": "//meta-q.cdn.bubble.io/f1747780609377x371787296480004000/regle.png",
+    "license": "open_source",
+    "name": "random_number"
+}

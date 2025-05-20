@@ -1,0 +1,37 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 5,
+        "width": 5
+    },
+    "display": "Random Number",
+    "fields": {
+        "AAD": {
+            "caption": "Minimum",
+            "editor": "DynamicValue",
+            "name": "min",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAE": {
+            "caption": "Maximum",
+            "editor": "DynamicValue",
+            "name": "max",
+            "rank": 1,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "platform_type": "web",
+    "states": {
+        "AAF": {
+            "caption": "Number",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "random_number",
+            "value": "number"
+        }
+    }
+}
